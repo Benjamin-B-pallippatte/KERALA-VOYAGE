@@ -1,5 +1,6 @@
 # KERALA-VOYAGE
 project link :👉
-adorable-phoenix-55f024.netlify.app
+scas-kerala-voyage.netlify.app
+
 
 SAHRDAYA INTERNSHIP PROJECT
